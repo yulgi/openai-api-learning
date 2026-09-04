@@ -1,0 +1,9 @@
+{
+  "warehouse": "仓库A",
+  "total_items": 4,
+  "total_quantity": 97,
+  "unchecked_items": [
+    "商品C"
+  ],
+  "is_complete": false
+}
